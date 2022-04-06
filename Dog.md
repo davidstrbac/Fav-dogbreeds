@@ -1,11 +1,11 @@
-#Dogs
+# Dogs
 
-*Weimaraner
+* Weimaraner
 
-*Samojede
+* Samojede
 
-*Bulldog
+* Bulldog
 
-*Pugs
+* Pugs
 
-*German Shepherd
+* German Shepherd
